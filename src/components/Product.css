@@ -1,0 +1,13 @@
+.uniqueProduct {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: white;
+  border-radius: 20px;
+}
+
+img {
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 20px;
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lechuga agro",
+    "cantidad": "1kg",
+    "precio": "$120",
+    "img": "https://amba.mascercaesmasjusto.org.ar/storage/app/uploads/public/612/ce2/a37/612ce2a377b07799859391.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Morron agro",
+    "cantidad": "1kg",
+    "precio": "$120",
+    "img": "https://amba.mascercaesmasjusto.org.ar/storage/app/uploads/public/609/c24/185/609c241852570467606682.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Manzana agro",
+    "cantidad": "1kg",
+    "precio": "$120",
+    "img": "https://amba.mascercaesmasjusto.org.ar/storage/app/uploads/public/62b/08a/df2/62b08adf26876294963518.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Limon agro",
+    "cantidad": "1kg",
+    "precio": "$120",
+    "img": "https://amba.mascercaesmasjusto.org.ar/storage/app/uploads/public/609/c22/a78/609c22a78f02a502424230.webp"
+  }
+]

@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-page {
+  background-color: #77dd77;
+  min-height: 100vh;
+}
