@@ -4,10 +4,24 @@
   text-align: center;
   background-color: white;
   border-radius: 20px;
+  box-shadow: 0px 0px 26px 9px rgba(31, 130, 35, 0.75);
 }
 
 img {
   max-width: 150px;
   max-height: 150px;
-  border-radius: 20px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+.container-description-text {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-bottom: 10px;
+}
+
+.description-text-1,
+.description-text-2 {
+  font-size: 20px;
 }

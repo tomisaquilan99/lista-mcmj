@@ -16,7 +16,7 @@ export function ProductList() {
 
   return (
     <div>
-      <h2>Productos de la semana</h2>
+      <h2 className="weekend-product-text">Productos de la semana</h2>
       <div className="products-list">
         {allProducts.map((element) => {
           return (
